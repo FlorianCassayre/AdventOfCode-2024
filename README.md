@@ -16,7 +16,7 @@ _My solutions to the 2024 edition of [Advent of Code](https://adventofcode.com/2
 
 | Day | Code |
 |:---:|:---:|
-| **[01](https://adventofcode.com/2024/day/1)** | [](src/main/scala/adventofcode/solutions/Day01.scala) |
+| **[01](https://adventofcode.com/2024/day/1)** | [solution](src/main/scala/adventofcode/solutions/Day01.scala) |
 | **[02](https://adventofcode.com/2024/day/2)** | [](src/main/scala/adventofcode/solutions/Day02.scala) |
 | **[03](https://adventofcode.com/2024/day/3)** | [](src/main/scala/adventofcode/solutions/Day03.scala) |
 | **[04](https://adventofcode.com/2024/day/4)** | [](src/main/scala/adventofcode/solutions/Day04.scala) |
