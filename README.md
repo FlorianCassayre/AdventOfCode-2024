@@ -29,7 +29,7 @@ _My solutions to the 2024 edition of [Advent of Code](https://adventofcode.com/2
 | **[11](https://adventofcode.com/2024/day/11)** | [solution](src/main/scala/adventofcode/solutions/Day11.scala) |
 | **[12](https://adventofcode.com/2024/day/12)** | [solution](src/main/scala/adventofcode/solutions/Day12.scala) |
 | **[13](https://adventofcode.com/2024/day/13)** | [solution](src/main/scala/adventofcode/solutions/Day13.scala) |
-| **[14](https://adventofcode.com/2024/day/14)** | [](src/main/scala/adventofcode/solutions/Day14.scala) |
+| **[14](https://adventofcode.com/2024/day/14)** | [solution](src/main/scala/adventofcode/solutions/Day14.scala) |
 | **[15](https://adventofcode.com/2024/day/15)** | [](src/main/scala/adventofcode/solutions/Day15.scala) |
 | **[16](https://adventofcode.com/2024/day/16)** | [](src/main/scala/adventofcode/solutions/Day16.scala) |
 | **[17](https://adventofcode.com/2024/day/17)** | [](src/main/scala/adventofcode/solutions/Day17.scala) |
